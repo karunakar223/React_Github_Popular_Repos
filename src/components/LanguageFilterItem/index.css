@@ -1,0 +1,23 @@
+/* Write your CSS here */
+li {
+  list-style-type: none;
+}
+
+.btn {
+  background-color: transparent;
+  outline: none;
+  cursor: pointer;
+  border: none;
+  color: #0f172a;
+  font-family: 'Roboto';
+  font-size: medium;
+  font-weight: 500;
+  margin-right: 50px;
+}
+
+.active {
+  color: #0284c7;
+  border: 1px solid #0284c7;
+  border-radius: 10px;
+  padding: 8px;
+}

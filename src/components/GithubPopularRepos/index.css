@@ -1,0 +1,30 @@
+/* Write your CSS here */
+.bg-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.main-heading {
+  color: #0f172a;
+  font-family: 'Lobster';
+  font-size: 58px;
+  font-weight: bold;
+  text-align: center;
+}
+.language-list-container {
+  display: flex;
+  justify-content: center;
+}
+.repository-item-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  width: 1000px;
+}
+.github-popular-repo-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
